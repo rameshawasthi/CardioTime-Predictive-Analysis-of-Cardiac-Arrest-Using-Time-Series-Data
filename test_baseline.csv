@@ -1,0 +1,2 @@
+age,male_gender,micu_unit,nward_unit,sicu_unit,tsicu_unit,csru_unit,nicu_unit,ccu_unit,tobacco,history_of_icu_admission,bun_last,arterial_ph_last,creatinine_last,blood_lactate_last,platelet_count_last,hemoglobin_last,wbc_count_last,potassium_last,resp_rate_last,hr_last,systolic_bp_last,diastolic_bp_last,mean_bp_last,spo2_last,temp_last
+70,1,0,0,1,0,0,0,0,0,1,66,7.11,3.5,9.1,223,9.2,38.5,6.6,12,128,71,59,65,15,37.72
